@@ -1,1 +1,1 @@
-# DQN-algorithm
+# Reinforcement Learning algorithms
